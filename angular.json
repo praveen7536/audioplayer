@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "audioplayer"
+    }
+  },
+  "defaultProject": "audioplayer",
+  "cli": {
+    "analytics": "b8316d28-b5a3-4eb9-ad2f-55e4f600b3a7"
+  }
 }

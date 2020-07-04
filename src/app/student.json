@@ -1,0 +1,31 @@
+[
+    {
+        "name":"student1",
+        "age":20,
+        "roll no":12,
+        "address":"street 1"
+
+    },
+    {
+        "name":"student2",
+        "age":19,
+        "roll no":11,
+        "address":"street 2"
+
+    },
+    {
+        "name":"student3",
+        "age":21,
+        "roll no":14,
+        "address":"street 8"
+
+    },
+    {
+        "name":"student4",
+        "age":20,
+        "roll no":22,
+        "address":"street 5"
+
+    }
+
+]
